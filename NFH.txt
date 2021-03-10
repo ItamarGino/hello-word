@@ -1,0 +1,6 @@
+The alphabet:{a}
+The initial state: 0
+Number of final states: 1
+The final state:{1}
+Quantification condition:EVERY$EACH
+Movement:0,2,({a,a},0)({#,a},1)$1,1,({#,a},1)$

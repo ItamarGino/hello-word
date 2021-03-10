@@ -1,0 +1,6 @@
+Number of states: 2
+The movement matrix:{{0,1}$},{{0}$}
+The alphabet:{a}
+Number of final states: 2
+The final states:{0,1}
+The initail state: 0
